@@ -10,3 +10,6 @@ but was still receiving an error on my code.  I googled and found a solution whi
 after I had grouped it to my empty csv file I created.  This was solved by using .count() and .reset_index() on my groupby function.  Lastly, after I installed
 my dash by plotly library, it would not import and was giving me an error but I solved my problem by figuring out the location of my install as well as the version of my python.
 
+
+
+
