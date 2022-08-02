@@ -1,0 +1,378 @@
+Country,Age,Gender,family_history,tech_company,wellness_program,treatment,North_America,age_categories
+Australia,18-24,Female,Yes,Yes,No,Yes,1,1
+Australia,18-24,Male,No,Yes,Unsure,No,1,1
+Australia,18-24,Male,Yes,No,Yes,Yes,1,1
+Australia,18-24,Male,Yes,Yes,Yes,Yes,1,1
+Australia,25-34,Female,Yes,No,Yes,No,2,2
+Australia,25-34,Female,Yes,No,Yes,Yes,1,1
+Australia,25-34,Female,Yes,Yes,No,Yes,1,1
+Australia,25-34,Male,No,Yes,No,No,2,2
+Australia,25-34,Male,No,Yes,No,Yes,2,2
+Australia,25-34,Male,No,Yes,Unsure,No,1,1
+Australia,25-34,Male,No,Yes,Yes,No,2,2
+Australia,25-34,Male,No,Yes,Yes,Yes,1,1
+Australia,25-34,Male,Yes,Yes,No,Yes,2,2
+Australia,25-34,Male,Yes,Yes,Unsure,Yes,1,1
+Australia,35-44,Male,Yes,Yes,No,Yes,1,1
+Australia,45-54,Male,No,Yes,No,Yes,1,1
+Austria,18-24,Male,No,Yes,Unsure,No,2,2
+Austria,25-34,Male,Yes,Yes,Unsure,No,1,1
+Belgium,25-34,Female,No,Yes,No,No,1,1
+Belgium,25-34,Female,Yes,No,No,Yes,1,1
+Belgium,25-34,Male,No,No,No,No,2,2
+Belgium,25-34,Male,No,Yes,No,No,2,2
+Bosnia and Herzegovina,25-34,Male,Yes,Yes,Unsure,No,1,1
+Brazil,18-24,Male,No,Yes,No,No,1,1
+Brazil,25-34,Male,No,Yes,No,No,2,2
+Brazil,25-34,Male,No,Yes,No,Yes,1,1
+Brazil,25-34,Male,Yes,Yes,No,No,1,1
+Brazil,25-34,Male,Yes,Yes,No,Yes,1,1
+Bulgaria,25-34,Female,No,Yes,No,Yes,1,1
+Bulgaria,25-34,Male,No,Yes,No,No,2,2
+Bulgaria,25-34,Male,No,Yes,No,Yes,1,1
+China,35-44,Male,No,Yes,No,No,1,1
+Colombia,25-34,Male,No,Yes,No,No,2,2
+Costa Rica,35-44,Male,No,Yes,No,No,1,1
+Croatia,25-34,Male,Yes,Yes,No,Yes,1,1
+Croatia,35-44,Male,No,Yes,No,Yes,1,1
+Czech Republic,25-34,Male,Yes,Yes,No,No,1,1
+Denmark,35-44,Male,Yes,Yes,Yes,Yes,2,2
+Finland,18-24,Male,No,No,No,No,1,1
+Finland,25-34,Male,No,Yes,No,No,1,1
+Finland,35-44,Male,No,Yes,No,Yes,1,1
+France,18-24,Male,No,Yes,Yes,No,1,1
+France,25-34,Male,No,Yes,No,No,5,5
+France,25-34,Male,No,Yes,No,Yes,1,1
+France,25-34,Male,No,Yes,Unsure,No,1,1
+France,25-34,Male,Yes,No,Unsure,No,1,1
+France,35-44,Male,No,Yes,No,No,2,2
+France,35-44,Male,Yes,Yes,Yes,No,1,1
+France,45-54,Male,No,Yes,No,Yes,1,1
+Georgia,18-24,Male,No,No,No,No,1,1
+Germany,18-24,Male,No,Yes,No,No,1,1
+Germany,18-24,Male,Yes,Yes,No,No,1,1
+Germany,18-24,Male,Yes,Yes,No,Yes,2,2
+Germany,18-24,Male,Yes,Yes,Unsure,Yes,1,1
+Germany,25-34,Female,No,Yes,No,No,1,1
+Germany,25-34,Male,No,No,Unsure,No,1,1
+Germany,25-34,Male,No,Yes,No,No,11,11
+Germany,25-34,Male,No,Yes,No,Yes,3,3
+Germany,25-34,Male,No,Yes,Unsure,No,4,4
+Germany,25-34,Male,Yes,No,No,Yes,1,1
+Germany,25-34,Male,Yes,Yes,No,Yes,7,7
+Germany,25-34,Male,Yes,Yes,Yes,Yes,1,1
+Germany,25-34,Non-binary,No,Yes,Yes,Yes,1,1
+Germany,25-34,Non-binary,Yes,Yes,No,Yes,1,1
+Germany,35-44,Male,No,No,No,Yes,1,1
+Germany,35-44,Male,No,No,Unsure,Yes,1,1
+Germany,35-44,Male,No,No,Yes,Yes,1,1
+Germany,35-44,Male,No,Yes,No,No,4,4
+Germany,35-44,Male,No,Yes,No,Yes,1,1
+Germany,35-44,Male,No,Yes,Yes,No,1,1
+Greece,25-34,Male,No,Yes,No,No,1,1
+Greece,35-44,Male,No,Yes,No,No,1,1
+Hungary,25-34,Female,Yes,Yes,No,No,1,1
+India,18-24,Female,Yes,Yes,No,Yes,1,1
+India,18-24,Male,No,Yes,No,No,2,2
+India,18-24,Male,No,Yes,No,Yes,2,2
+India,18-24,Male,No,Yes,Unsure,No,1,1
+India,25-34,Female,No,No,No,No,1,1
+India,25-34,Male,No,Yes,No,No,3,3
+Ireland,18-24,Female,No,Yes,Yes,Yes,1,1
+Ireland,18-24,Male,No,Yes,Unsure,No,1,1
+Ireland,18-24,Male,Yes,Yes,No,No,2,2
+Ireland,18-24,Male,Yes,Yes,No,Yes,1,1
+Ireland,25-34,Female,No,No,Yes,Yes,1,1
+Ireland,25-34,Female,Yes,Yes,Unsure,No,1,1
+Ireland,25-34,Male,No,Yes,No,No,4,4
+Ireland,25-34,Male,No,Yes,No,Yes,3,3
+Ireland,25-34,Male,No,Yes,Unsure,Yes,1,1
+Ireland,25-34,Male,No,Yes,Yes,Yes,1,1
+Ireland,25-34,Male,Yes,Yes,No,Yes,2,2
+Ireland,35-44,Female,No,Yes,No,No,1,1
+Ireland,35-44,Male,No,Yes,No,No,3,3
+Ireland,35-44,Male,Yes,Yes,No,No,1,1
+Ireland,35-44,Male,Yes,Yes,No,Yes,2,2
+Ireland,45-54,Male,No,Yes,No,No,1,1
+Ireland,45-54,Male,No,Yes,No,Yes,1,1
+Israel,18-24,Male,No,No,Yes,No,1,1
+Israel,18-24,Male,No,Yes,No,No,1,1
+Israel,25-34,Female,Yes,Yes,Unsure,No,1,1
+Israel,25-34,Male,No,Yes,No,No,2,2
+Italy,25-34,Male,No,No,No,No,2,2
+Italy,25-34,Male,No,Yes,No,No,1,1
+Italy,25-34,Male,Yes,Yes,No,No,1,1
+Italy,25-34,Male,Yes,Yes,No,Yes,1,1
+Italy,35-44,Male,No,Yes,Unsure,No,2,2
+Japan,45-54,Male,Yes,Yes,Yes,Yes,1,1
+Latvia,25-34,Male,No,Yes,No,No,1,1
+Moldova,25-34,Male,No,Yes,No,Yes,1,1
+Netherlands,18-24,Female,No,Yes,No,No,1,1
+Netherlands,18-24,Male,No,Yes,No,No,2,2
+Netherlands,18-24,Male,Yes,Yes,No,Yes,1,1
+Netherlands,25-34,Male,No,Yes,No,No,5,5
+Netherlands,25-34,Male,No,Yes,No,Yes,2,2
+Netherlands,25-34,Male,No,Yes,Unsure,No,2,2
+Netherlands,25-34,Male,Yes,Yes,No,No,1,1
+Netherlands,25-34,Male,Yes,Yes,No,Yes,1,1
+Netherlands,25-34,Male,Yes,Yes,Unsure,Yes,1,1
+Netherlands,25-34,Male,Yes,Yes,Yes,Yes,1,1
+Netherlands,35-44,Female,No,Yes,No,Yes,1,1
+Netherlands,35-44,Female,No,Yes,Unsure,Yes,1,1
+Netherlands,35-44,Male,No,No,Unsure,No,1,1
+Netherlands,35-44,Male,No,No,Yes,No,1,1
+Netherlands,35-44,Male,No,Yes,No,Yes,1,1
+Netherlands,35-44,Male,No,Yes,Unsure,No,1,1
+Netherlands,35-44,Male,No,Yes,Yes,No,1,1
+Netherlands,35-44,Male,Yes,Yes,No,No,3,3
+New Zealand,25-34,Female,Yes,Yes,No,Yes,1,1
+New Zealand,25-34,Male,No,Yes,No,No,2,2
+New Zealand,25-34,Male,No,Yes,No,Yes,1,1
+New Zealand,25-34,Male,Yes,Yes,Yes,Yes,1,1
+New Zealand,35-44,Male,No,No,Unsure,Yes,1,1
+New Zealand,35-44,Male,No,Yes,No,No,1,1
+New Zealand,45-54,Male,No,Yes,Yes,Yes,1,1
+Nigeria,25-34,Male,No,Yes,No,No,1,1
+North_America,0,Male,No,Yes,No,Yes,1,1
+North_America,18-24,Female,No,No,Unsure,No,1,1
+North_America,18-24,Female,No,Yes,No,No,2,2
+North_America,18-24,Female,No,Yes,No,Yes,1,1
+North_America,18-24,Female,No,Yes,Unsure,Yes,1,1
+North_America,18-24,Female,No,Yes,Yes,No,2,2
+North_America,18-24,Female,No,Yes,Yes,Yes,1,1
+North_America,18-24,Female,Yes,No,No,No,3,3
+North_America,18-24,Female,Yes,No,Unsure,Yes,1,1
+North_America,18-24,Female,Yes,Yes,No,Yes,6,6
+North_America,18-24,Female,Yes,Yes,Unsure,Yes,4,4
+North_America,18-24,Female,Yes,Yes,Yes,Yes,2,2
+North_America,18-24,Male,No,No,No,No,4,4
+North_America,18-24,Male,No,No,No,Yes,2,2
+North_America,18-24,Male,No,No,Unsure,No,2,2
+North_America,18-24,Male,No,No,Yes,Yes,1,1
+North_America,18-24,Male,No,Yes,No,No,7,7
+North_America,18-24,Male,No,Yes,No,Yes,8,8
+North_America,18-24,Male,No,Yes,Unsure,No,13,13
+North_America,18-24,Male,No,Yes,Yes,No,2,2
+North_America,18-24,Male,No,Yes,Yes,Yes,2,2
+North_America,18-24,Male,Yes,No,No,Yes,2,2
+North_America,18-24,Male,Yes,Yes,No,No,5,5
+North_America,18-24,Male,Yes,Yes,No,Yes,9,9
+North_America,18-24,Male,Yes,Yes,Unsure,No,1,1
+North_America,18-24,Male,Yes,Yes,Yes,No,2,2
+North_America,18-24,Non-binary,No,Yes,No,No,1,1
+North_America,18-24,Non-binary,Yes,No,No,Yes,1,1
+North_America,25-34,Female,No,No,No,Yes,3,3
+North_America,25-34,Female,No,No,Unsure,No,2,2
+North_America,25-34,Female,No,No,Unsure,Yes,2,2
+North_America,25-34,Female,No,No,Yes,No,1,1
+North_America,25-34,Female,No,No,Yes,Yes,2,2
+North_America,25-34,Female,No,Yes,No,No,10,10
+North_America,25-34,Female,No,Yes,No,Yes,15,15
+North_America,25-34,Female,No,Yes,Unsure,No,5,5
+North_America,25-34,Female,No,Yes,Unsure,Yes,5,5
+North_America,25-34,Female,No,Yes,Yes,No,5,5
+North_America,25-34,Female,No,Yes,Yes,Yes,5,5
+North_America,25-34,Female,Yes,No,No,No,2,2
+North_America,25-34,Female,Yes,No,No,Yes,6,6
+North_America,25-34,Female,Yes,No,Yes,Yes,7,7
+North_America,25-34,Female,Yes,Yes,No,No,4,4
+North_America,25-34,Female,Yes,Yes,No,Yes,26,26
+North_America,25-34,Female,Yes,Yes,Unsure,Yes,5,5
+North_America,25-34,Female,Yes,Yes,Yes,Yes,9,9
+North_America,25-34,Male,No,No,No,No,15,15
+North_America,25-34,Male,No,No,No,Yes,4,4
+North_America,25-34,Male,No,No,Unsure,No,1,1
+North_America,25-34,Male,No,No,Yes,No,7,7
+North_America,25-34,Male,No,No,Yes,Yes,3,3
+North_America,25-34,Male,No,Yes,No,No,75,75
+North_America,25-34,Male,No,Yes,No,Yes,36,36
+North_America,25-34,Male,No,Yes,Unsure,No,23,23
+North_America,25-34,Male,No,Yes,Unsure,Yes,6,6
+North_America,25-34,Male,No,Yes,Yes,No,18,18
+North_America,25-34,Male,No,Yes,Yes,Yes,10,10
+North_America,25-34,Male,Yes,No,No,No,3,3
+North_America,25-34,Male,Yes,No,No,Yes,9,9
+North_America,25-34,Male,Yes,No,Yes,Yes,4,4
+North_America,25-34,Male,Yes,Yes,No,No,19,19
+North_America,25-34,Male,Yes,Yes,No,Yes,50,50
+North_America,25-34,Male,Yes,Yes,Unsure,No,8,8
+North_America,25-34,Male,Yes,Yes,Unsure,Yes,15,15
+North_America,25-34,Male,Yes,Yes,Yes,No,7,7
+North_America,25-34,Male,Yes,Yes,Yes,Yes,13,13
+North_America,25-34,Non-binary,No,Yes,No,Yes,1,1
+North_America,25-34,Non-binary,Yes,Yes,No,Yes,2,2
+North_America,25-34,Non-binary,Yes,Yes,Unsure,Yes,1,1
+North_America,35-44,Female,No,No,No,No,2,2
+North_America,35-44,Female,No,No,No,Yes,1,1
+North_America,35-44,Female,No,Yes,No,No,4,4
+North_America,35-44,Female,No,Yes,No,Yes,8,8
+North_America,35-44,Female,No,Yes,Unsure,No,1,1
+North_America,35-44,Female,No,Yes,Unsure,Yes,2,2
+North_America,35-44,Female,No,Yes,Yes,No,1,1
+North_America,35-44,Female,Yes,No,No,Yes,3,3
+North_America,35-44,Female,Yes,No,Unsure,Yes,1,1
+North_America,35-44,Female,Yes,No,Yes,Yes,6,6
+North_America,35-44,Female,Yes,Yes,No,No,2,2
+North_America,35-44,Female,Yes,Yes,No,Yes,12,12
+North_America,35-44,Female,Yes,Yes,Unsure,No,1,1
+North_America,35-44,Female,Yes,Yes,Unsure,Yes,2,2
+North_America,35-44,Female,Yes,Yes,Yes,No,1,1
+North_America,35-44,Female,Yes,Yes,Yes,Yes,1,1
+North_America,35-44,Male,No,No,No,No,6,6
+North_America,35-44,Male,No,No,No,Yes,5,5
+North_America,35-44,Male,No,No,Unsure,No,5,5
+North_America,35-44,Male,No,No,Yes,No,3,3
+North_America,35-44,Male,No,No,Yes,Yes,3,3
+North_America,35-44,Male,No,Yes,No,No,32,32
+North_America,35-44,Male,No,Yes,No,Yes,18,18
+North_America,35-44,Male,No,Yes,Unsure,No,8,8
+North_America,35-44,Male,No,Yes,Unsure,Yes,4,4
+North_America,35-44,Male,No,Yes,Yes,No,13,13
+North_America,35-44,Male,No,Yes,Yes,Yes,7,7
+North_America,35-44,Male,Yes,No,No,No,4,4
+North_America,35-44,Male,Yes,No,No,Yes,10,10
+North_America,35-44,Male,Yes,No,Unsure,No,1,1
+North_America,35-44,Male,Yes,No,Unsure,Yes,1,1
+North_America,35-44,Male,Yes,No,Yes,No,3,3
+North_America,35-44,Male,Yes,No,Yes,Yes,4,4
+North_America,35-44,Male,Yes,Yes,No,No,10,10
+North_America,35-44,Male,Yes,Yes,No,Yes,29,29
+North_America,35-44,Male,Yes,Yes,Unsure,Yes,6,6
+North_America,35-44,Male,Yes,Yes,Yes,No,4,4
+North_America,35-44,Male,Yes,Yes,Yes,Yes,11,11
+North_America,35-44,Non-binary,Yes,Yes,Yes,No,1,1
+North_America,45-54,Female,No,No,No,Yes,1,1
+North_America,45-54,Female,No,No,Unsure,Yes,1,1
+North_America,45-54,Female,No,Yes,No,No,2,2
+North_America,45-54,Female,No,Yes,No,Yes,1,1
+North_America,45-54,Female,Yes,Yes,No,No,1,1
+North_America,45-54,Male,No,No,No,No,1,1
+North_America,45-54,Male,No,No,Yes,No,2,2
+North_America,45-54,Male,No,No,Yes,Yes,1,1
+North_America,45-54,Male,No,Yes,No,No,7,7
+North_America,45-54,Male,No,Yes,No,Yes,3,3
+North_America,45-54,Male,No,Yes,Unsure,Yes,2,2
+North_America,45-54,Male,No,Yes,Yes,No,2,2
+North_America,45-54,Male,No,Yes,Yes,Yes,3,3
+North_America,45-54,Male,Yes,Yes,No,No,1,1
+North_America,45-54,Male,Yes,Yes,No,Yes,4,4
+North_America,45-54,Male,Yes,Yes,Unsure,Yes,2,2
+North_America,45-54,Male,Yes,Yes,Yes,No,2,2
+North_America,45-54,Male,Yes,Yes,Yes,Yes,3,3
+North_America,45-54,Non-binary,No,No,Yes,Yes,1,1
+North_America,55-64,Female,No,Yes,Unsure,No,1,1
+North_America,55-64,Male,No,Yes,No,No,1,1
+North_America,55-64,Male,No,Yes,Unsure,No,2,2
+North_America,55-64,Male,No,Yes,Unsure,Yes,2,2
+North_America,55-64,Male,No,Yes,Yes,Yes,3,3
+North_America,55-64,Male,Yes,Yes,No,Yes,3,3
+North_America,55-64,Male,Yes,Yes,Yes,Yes,1,1
+North_America,65-74,Female,Yes,No,Unsure,Yes,1,1
+North_America,65-74,Male,No,No,No,No,1,1
+North_America,Under 18,Male,No,No,Unsure,No,1,1
+North_America,Under 18,Male,No,Yes,No,No,2,2
+North_America,Under 18,Non-binary,Yes,Yes,Yes,Yes,2,2
+Norway,25-34,Male,Yes,Yes,No,No,1,1
+Philippines,25-34,Male,No,Yes,No,No,1,1
+Poland,25-34,Female,No,Yes,Yes,Yes,1,1
+Poland,25-34,Male,No,Yes,No,No,3,3
+Poland,25-34,Male,No,Yes,No,Yes,1,1
+Poland,25-34,Male,Yes,Yes,No,Yes,1,1
+Poland,35-44,Male,Yes,Yes,No,Yes,1,1
+Portugal,25-34,Male,No,Yes,No,No,1,1
+Portugal,35-44,Male,No,Yes,No,No,1,1
+Romania,25-34,Male,No,No,No,No,1,1
+Russia,18-24,Male,No,Yes,No,No,1,1
+Russia,25-34,Male,No,Yes,No,No,2,2
+Singapore,25-34,Male,No,Yes,No,No,2,2
+Singapore,25-34,Male,Yes,Yes,No,Yes,1,1
+Singapore,45-54,Male,No,Yes,No,No,1,1
+Slovenia,18-24,Male,No,Yes,No,Yes,1,1
+South Africa,25-34,Male,No,Yes,No,No,2,2
+South Africa,25-34,Male,Yes,No,No,Yes,1,1
+South Africa,35-44,Female,Yes,Yes,No,Yes,1,1
+South Africa,35-44,Male,Yes,No,No,Yes,1,1
+South Africa,55-64,Male,No,Yes,No,Yes,1,1
+Spain,25-34,Female,Yes,Yes,No,No,1,1
+Sweden,18-24,Male,No,Yes,No,No,2,2
+Sweden,25-34,Female,Yes,Yes,No,Yes,1,1
+Sweden,25-34,Female,Yes,Yes,Yes,No,1,1
+Sweden,25-34,Male,No,Yes,No,No,1,1
+Sweden,25-34,Male,No,Yes,No,Yes,1,1
+Sweden,25-34,Male,No,Yes,Unsure,No,1,1
+Switzerland,18-24,Female,No,Yes,Yes,No,1,1
+Switzerland,25-34,Male,No,Yes,No,No,2,2
+Switzerland,25-34,Male,Yes,Yes,No,No,1,1
+Switzerland,25-34,Male,Yes,Yes,No,Yes,1,1
+Switzerland,35-44,Male,No,Yes,Yes,Yes,1,1
+Switzerland,35-44,Male,Yes,Yes,No,Yes,1,1
+Thailand,35-44,Male,No,Yes,No,No,1,1
+United Kingdom,18-24,Female,No,Yes,No,No,2,2
+United Kingdom,18-24,Female,No,Yes,No,Yes,1,1
+United Kingdom,18-24,Female,No,Yes,Unsure,Yes,1,1
+United Kingdom,18-24,Female,Yes,No,No,No,1,1
+United Kingdom,18-24,Female,Yes,Yes,No,Yes,2,2
+United Kingdom,18-24,Female,Yes,Yes,Unsure,Yes,1,1
+United Kingdom,18-24,Male,No,No,No,No,1,1
+United Kingdom,18-24,Male,No,No,No,Yes,3,3
+United Kingdom,18-24,Male,No,Yes,No,No,8,8
+United Kingdom,18-24,Male,No,Yes,No,Yes,4,4
+United Kingdom,18-24,Male,No,Yes,Unsure,Yes,1,1
+United Kingdom,18-24,Male,No,Yes,Yes,No,2,2
+United Kingdom,18-24,Male,Yes,No,No,No,1,1
+United Kingdom,18-24,Male,Yes,No,No,Yes,1,1
+United Kingdom,18-24,Male,Yes,Yes,No,No,2,2
+United Kingdom,18-24,Male,Yes,Yes,No,Yes,1,1
+United Kingdom,18-24,Non-binary,No,Yes,Yes,Yes,1,1
+United Kingdom,25-34,Female,No,No,No,No,1,1
+United Kingdom,25-34,Female,No,No,No,Yes,2,2
+United Kingdom,25-34,Female,No,Yes,No,No,2,2
+United Kingdom,25-34,Female,No,Yes,No,Yes,2,2
+United Kingdom,25-34,Female,No,Yes,Yes,Yes,2,2
+United Kingdom,25-34,Female,Yes,No,No,No,1,1
+United Kingdom,25-34,Female,Yes,No,No,Yes,1,1
+United Kingdom,25-34,Female,Yes,No,Yes,No,1,1
+United Kingdom,25-34,Female,Yes,Yes,No,No,1,1
+United Kingdom,25-34,Female,Yes,Yes,No,Yes,2,2
+United Kingdom,25-34,Male,No,No,No,No,6,6
+United Kingdom,25-34,Male,No,No,No,Yes,2,2
+United Kingdom,25-34,Male,No,No,Unsure,No,1,1
+United Kingdom,25-34,Male,No,Yes,No,No,36,36
+United Kingdom,25-34,Male,No,Yes,No,Yes,15,15
+United Kingdom,25-34,Male,No,Yes,Unsure,No,4,4
+United Kingdom,25-34,Male,No,Yes,Unsure,Yes,2,2
+United Kingdom,25-34,Male,No,Yes,Yes,Yes,1,1
+United Kingdom,25-34,Male,Yes,No,No,No,1,1
+United Kingdom,25-34,Male,Yes,No,No,Yes,2,2
+United Kingdom,25-34,Male,Yes,No,Yes,Yes,2,2
+United Kingdom,25-34,Male,Yes,Yes,No,No,4,4
+United Kingdom,25-34,Male,Yes,Yes,No,Yes,13,13
+United Kingdom,25-34,Male,Yes,Yes,Unsure,Yes,3,3
+United Kingdom,25-34,Non-binary,No,No,Yes,Yes,1,1
+United Kingdom,25-34,Non-binary,Yes,Yes,No,Yes,2,2
+United Kingdom,35-44,Female,No,Yes,No,Yes,1,1
+United Kingdom,35-44,Female,No,Yes,Unsure,No,1,1
+United Kingdom,35-44,Female,Yes,Yes,No,No,1,1
+United Kingdom,35-44,Male,No,No,No,No,1,1
+United Kingdom,35-44,Male,No,No,No,Yes,2,2
+United Kingdom,35-44,Male,No,No,Unsure,Yes,1,1
+United Kingdom,35-44,Male,No,No,Yes,No,1,1
+United Kingdom,35-44,Male,No,No,Yes,Yes,2,2
+United Kingdom,35-44,Male,No,Yes,No,No,7,7
+United Kingdom,35-44,Male,No,Yes,No,Yes,6,6
+United Kingdom,35-44,Male,Yes,No,No,No,2,2
+United Kingdom,35-44,Male,Yes,No,No,Yes,3,3
+United Kingdom,35-44,Male,Yes,No,Yes,No,1,1
+United Kingdom,35-44,Male,Yes,No,Yes,Yes,1,1
+United Kingdom,35-44,Male,Yes,Yes,No,No,1,1
+United Kingdom,35-44,Male,Yes,Yes,No,Yes,3,3
+United Kingdom,35-44,Male,Yes,Yes,Unsure,Yes,1,1
+United Kingdom,35-44,Male,Yes,Yes,Yes,Yes,1,1
+United Kingdom,45-54,Male,No,No,Yes,Yes,1,1
+United Kingdom,45-54,Male,No,Yes,No,No,1,1
+United Kingdom,45-54,Male,Yes,No,No,No,1,1
+United Kingdom,45-54,Male,Yes,Yes,No,Yes,1,1
+United Kingdom,55-64,Male,No,No,Yes,Yes,1,1
+United Kingdom,Under 18,Male,No,No,No,Yes,1,1
+Uruguay,25-34,Male,No,Yes,Unsure,No,1,1
+Zimbabwe,0,Non-binary,Yes,Yes,No,Yes,1,1
